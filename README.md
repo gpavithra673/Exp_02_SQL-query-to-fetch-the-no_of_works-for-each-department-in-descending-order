@@ -1,6 +1,6 @@
 # Exp_02_SQL-query-to-fetch-the-no_of_works-for-each-department-in-descending-order
 ## AIM:
-###
+### To fetch the given column and arrange the values in descending order using SQL.
 ## ALGORITHM:
 ### STEP 1: Create a sample table in SQL using CREATE TABLE syntax
 ### STEP 2: Insert all the values and Titles respectively using INSERT INTO syntax
